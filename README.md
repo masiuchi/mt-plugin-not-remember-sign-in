@@ -1,4 +1,7 @@
-mt-plugin-not-remember-sign-in
+NotRememberSignIn
 ==============================
 
-Disable the remember function when logging in.
+サインイン情報を記憶しないようにする Movable Type プラグイン
+
+## ライセンス
+MIT License
